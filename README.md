@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Zekawdb
 
- - ***Je suis un jeune développeur passionné par la création de Model 3d est de Script.***
+ - ***Je suis un jeune développeur passionné.***
 
 # 🚀 Mes compétences
 
